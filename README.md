@@ -61,7 +61,7 @@
 
 **Оксана Журавлева**  
 **Telegram:** [@ocsana98211](https://t.me/ocsana98211) 
-Email: ocsana98211@yandex.ru  
-Телефон: +7 915 615-97-47
+**Email: ocsana98211@yandex.ru **
+**Телефон: +7 915 615-97-47 **
 
 ---
