@@ -1,35 +1,47 @@
-## Hi there 👋
+# Привет, я Ocsana  
+**System Analyst / Dev**  
+Помогаю создавать чёткие требования, модели и автоматизировать процессы.
 
-<!--
-**ocsana98211/ocsana98211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 О себе  
+Прошёл обучение в **Яндекс.Практикуме**, освоил анализ, моделирование и проектирование интерфейсов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Прошёл обучение в Яндекс.Практикуме, освоил:
-- работу с требованиями и бизнес-логикой
-- Use Cases, User Stories
-- моделирование (BPMN, UML, DFD, ERD)
-- анализ данных и проектирование интерфейсов
-- составление спецификаций, ПМИ
-  ## Работаю:
-- Miro, Draw.io, Figma  
-- Postman  
-- Swagger / OpenAPI
-  ## Знаком с SQL и REST API
-  Telegram: @ocsana98211
-## Portfolio
+---
+
+## 🛠️ Навыки
+
+**Аналитика & моделирование:**  
+- Требования и бизнес-логика  
+- Use Cases, User Stories  
+- BPMN, UML, DFD, ERD  
+
+**Инструменты:**  
+Miro · Draw.io · Figma · Postman · Swagger / OpenAPI  
+
+**Технологии:**  
+SQL · REST API · Python · PyQt · PostgreSQL  
+
+---
+
+## 📂 Портфолио
 
 | Проект | Описание | Стек |
-|-------|----------|------|
-| [Flight Safety App](https://github.com/USERNAME/flight-safety) | Модель автоматизации контроля БП | Python, PostgreSQL, PyQt |
-| [Telegram Bot](https://github.com/USERNAME/telegram-bot) | Бот для записи клиентов | Python, Telegram API |
-| [3D Models](https://github.com/USERNAME/3d-models) | Коммерческие 3D-модели | Blender, STL |
+|--------|----------|------|
+| [Flight Safety App](https://github.com/ocsana98211/Flight%20Safety%20App) | Модель автоматизации контроля безопасности полётов | Python, PostgreSQL, PyQt |
+| [Telegram Bot](https://github.com/ocsana98211/Telegram%20Bot) | Бот для записи клиентов | Python, Telegram API |
+| [3D Models](https://github.com/ocsana98211/3D%20Models) | Коллекция коммерческих 3D-моделей | Blender, STL |
+
+---
+
+## 📫 Контакты
+
+- **Telegram:** [@ocsana98211](https://t.me/ocsana98211)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocsana98211&show_icons=true&theme=dark)
+
+---
