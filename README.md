@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 - Swagger / OpenAPI
   ## Знаком с SQL и REST API
   Telegram: @ocsana98211
+## Portfolio
+
+| Проект | Описание | Стек |
+|-------|----------|------|
+| [Flight Safety App](https://github.com/USERNAME/flight-safety) | Модель автоматизации контроля БП | Python, PostgreSQL, PyQt |
+| [Telegram Bot](https://github.com/USERNAME/telegram-bot) | Бот для записи клиентов | Python, Telegram API |
+| [3D Models](https://github.com/USERNAME/3d-models) | Коммерческие 3D-модели | Blender, STL |
